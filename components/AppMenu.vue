@@ -2,7 +2,7 @@
   <div class="menu">
     <div class="menu__container">
       <div class="menu__box-img">
-        <NuxtImg src="../public/assets/images/Logo.png" alt="" />
+        <img src="../public/assets/images/Logo.png" alt="" />
       </div>
       <div class="menu__box-nav">
         <nav class="menu__nav">
