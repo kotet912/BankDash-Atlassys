@@ -2,7 +2,7 @@
   <div class="menu">
     <div class="menu__container">
       <div class="menu__box-img">
-        <img src="../public/assets/images/Logo.png" alt="" />
+        <NuxtImg src="../public/assets/images/Logo.png" alt="" />
       </div>
       <div class="menu__box-nav">
         <nav class="menu__nav">
@@ -90,9 +90,16 @@ const menuItems = [
 }
 .menu__box-img {
   padding-left: 44px;
+  width: 183px;
+  height: 36px;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
 }
 .menu__box-nav {
-  padding-top: 58px;
+  padding-top: 62px;
 }
 .menu__nav {
 }

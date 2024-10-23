@@ -10,7 +10,6 @@
   border-radius: 25px;
   width: 1110px;
   height: 717px;
-
   background: rgb(255, 255, 255);
 }
 </style>
