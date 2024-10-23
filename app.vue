@@ -19,7 +19,7 @@ $text-color: #b1b1b1;
   background-color: $background-color;
 }
 .menu-left {
-  flex: 1 0 249px;
+  flex: 1 0 205px;
   background-color: rgb(255, 255, 255);
   color: #fff;
   border-right: 1px solid rgb(230, 239, 245);
